@@ -1,0 +1,42 @@
+body{
+  font-family:Comic Sans MS;
+  color:black;
+  background-image:url("images/back.jpg");
+  font-size: 20px;
+}
+a{
+  text-decoration:none;
+  font-size: 17px;
+}
+#click_me{
+  background-color:black;
+  padding:5px;
+  border-radius:5px;
+  font-size: 19px;
+}
+#click_me:hover{
+  color:white !important;
+  
+}
+
+nav{
+  padding:5px
+}
+nav a{
+  color:black;
+  margin:0 10px 0 10px;
+}
+
+#banner{
+  background-image:url("images/flag.jpg");
+  padding:20px;
+  text-align:center;
+}
+
+img{ 
+	width: 350px;
+	border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+	float: right;
+}
